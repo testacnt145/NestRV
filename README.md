@@ -3,24 +3,21 @@
 
 ## Tutorials
 #### 1- [CardView](https://www.androidhive.info/2016/05/android-working-with-card-view-and-recycler-view/)
+1) Overflow button in cards
 
 #### 2- [RecyclerViewSnap](https://rubensousa.github.io/2016/08/recyclerviewsnap)
-
 1) [Youtube](https://www.youtube.com/watch?v=aWb-PizXU8I)
-2) Wonderful animation
+2) Animation - Ripple Effect
 
 #### 3- [RVMultipleViewItems](https://www.journaldev.com/12372/android-recyclerview-example)
-
 1) 4 types of items, can take help from it
 
 #### 4- [Heterogeneous](https://github.com/delaroy/Heterogeneous)
-
 1) [Youtube](https://www.youtube.com/watch?v=03OWg7TamOo)
 2) Clean code - multiple recycler view
 
 
 #### 5- [PlayStore like View](http://android-pratap.blogspot.in/2015/12/horizontal-recyclerview-in-vertical.html)
-
 1) [Youtube](https://www.youtube.com/watch?v=YAgHynYKmQM)
 
 ## Databinding
