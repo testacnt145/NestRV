@@ -1,5 +1,9 @@
 # NestRV
 
+## Guidelines
+1) https://guides.codepath.com/android/Using-the-RecyclerView
+2) https://guides.codepath.com/android/Handling-Scrolls-with-CoordinatorLayout
+3) https://guides.codepath.com/android/Heterogenous-Layouts-inside-RecyclerView
 
 ## Tutorials
 #### 1- [CardView](https://www.androidhive.info/2016/05/android-working-with-card-view-and-recycler-view/)
@@ -19,6 +23,11 @@
 
 #### 5- [PlayStore like View](http://android-pratap.blogspot.in/2015/12/horizontal-recyclerview-in-vertical.html)
 1) [Youtube](https://www.youtube.com/watch?v=YAgHynYKmQM)
+
+## Issues
+1) [setNestedScrollingEnabled(false)](https://stackoverflow.com/questions/34791752/nested-recyclerview-with-coordinatorlayout)
+2) [setRecycledViewPool(RecycledViewPool)](https://medium.com/@mgn524/optimizing-nested-recyclerview-a9b7830a4ba7)
+
 
 ## Databinding
 ### Why not Databinding?
