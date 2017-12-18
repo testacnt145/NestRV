@@ -57,3 +57,13 @@ https://www.reddit.com/r/androiddev/comments/2zu8za/is_using_dp_for_widthheight_
 
 #### For Designer
 https://www.reddit.com/r/graphic_design/comments/1ulhbp/trying_to_wrap_my_brain_around_android_design/
+
+
+Convert pixel to dp
+http://labs.rampinteractive.co.uk/android_dp_px_calculator/
+
+Visual designer question
+https://stackoverflow.com/questions/13404377/how-do-i-convert-pt-to-sp
+
+Zain devices dimentions
+https://material.io/devices/
