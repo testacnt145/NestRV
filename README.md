@@ -39,3 +39,16 @@
 ## Reddit
 1) [Is a RecyclerView of RecyclerViews a good idea?](https://www.reddit.com/r/androiddev/comments/7jxlkb/is_a_recyclerview_of_recyclerviews_a_good_idea/)
 2) [What is the best way to design layout like Google Play App](https://www.reddit.com/r/androiddev/comments/7jxlkb/is_a_recyclerview_of_recyclerviews_a_good_idea/)
+
+
+## Dynamic UI
+1) Where to place assets?
+
+https://stackoverflow.com/questions/28613118/how-to-make-my-app-look-the-same-in-all-devices
+https://developer.android.com/guide/practices/screens_support.html#DeclaringTabletLayouts
+
+````
+res/layout/main_activity.xml # For handsets (smaller than 600dp available width)
+res/layout-sw600dp/main_activity.xml # For 7” tablets (600dp wide and bigger) 
+res/layout-sw720dp/main_activity.xml # For 10” tablets (720dp wide and bigger)
+````
