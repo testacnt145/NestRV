@@ -52,3 +52,5 @@ res/layout/main_activity.xml # For handsets (smaller than 600dp available width)
 res/layout-sw600dp/main_activity.xml # For 7” tablets (600dp wide and bigger) 
 res/layout-sw720dp/main_activity.xml # For 10” tablets (720dp wide and bigger)
 ````
+
+https://www.reddit.com/r/androiddev/comments/2zu8za/is_using_dp_for_widthheight_instead_of_wrap/
