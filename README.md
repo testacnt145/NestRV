@@ -54,3 +54,6 @@ res/layout-sw720dp/main_activity.xml # For 10” tablets (720dp wide and bigger)
 ````
 
 https://www.reddit.com/r/androiddev/comments/2zu8za/is_using_dp_for_widthheight_instead_of_wrap/
+
+#### For Designer
+https://www.reddit.com/r/graphic_design/comments/1ulhbp/trying_to_wrap_my_brain_around_android_design/
