@@ -32,9 +32,10 @@
 ## Databinding
 ### Why not Databinding?
 1) DB is for static data
-2) Adding dynamic imageviews in Linear Layout is problem (Solution: use recycler view there)
-3) Switch in latest deals
-4) animations
+2) Recycler view multiple items
+3) Adding dynamic imageviews in Linear Layout is problem (Solution: use recycler view there)
+4) Switch in latest deals
+5) animations
 
 ## Reddit
 1) [Is a RecyclerView of RecyclerViews a good idea?](https://www.reddit.com/r/androiddev/comments/7jxlkb/is_a_recyclerview_of_recyclerviews_a_good_idea/)
