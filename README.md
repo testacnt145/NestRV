@@ -39,6 +39,8 @@
 
 ### Usecase
 We can use it just to bind and avoid findviewbyid
+   But it will cause issues (xml -> premium_brand_image) (api -> image)
+
 
 ## Reddit
 1) [Is a RecyclerView of RecyclerViews a good idea?](https://www.reddit.com/r/androiddev/comments/7jxlkb/is_a_recyclerview_of_recyclerviews_a_good_idea/)
