@@ -41,6 +41,9 @@
 We can use it just to bind and avoid findviewbyid
    But it will cause issues (xml -> premium_brand_image) (api -> image)
 
+## Reddit
+1) [Is a RecyclerView of RecyclerViews a good idea?](https://www.reddit.com/r/androiddev/comments/7jxlkb/is_a_recyclerview_of_recyclerviews_a_good_idea/)
+2) [What is the best way to design layout like Google Play App](https://www.reddit.com/r/androiddev/comments/7588bw/what_is_the_best_way_to_design_layout_like_google/)
 
 ## MVP
 ### Activity
@@ -48,11 +51,6 @@ We can use it just to bind and avoid findviewbyid
 2) Do not define static variable
 3) use OnClickBtnA()
 4) activity should not call any activity method, presenter should call method
-
-## Reddit
-1) [Is a RecyclerView of RecyclerViews a good idea?](https://www.reddit.com/r/androiddev/comments/7jxlkb/is_a_recyclerview_of_recyclerviews_a_good_idea/)
-2) [What is the best way to design layout like Google Play App](https://www.reddit.com/r/androiddev/comments/7588bw/what_is_the_best_way_to_design_layout_like_google/)
-
 
 ## Dynamic UI
 1) Where to place assets?
