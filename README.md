@@ -3,6 +3,8 @@
 ## Material Design
 
 1) [Which Color is where?](https://stackoverflow.com/questions/22192291/how-to-change-the-status-bar-color-in-android)
+2) [Colors] (https://material.io/guidelines/style/color.html#color-color-system)
+3) [Status bar] (https://material.io/guidelines/layout/structure.html#structure-system-bars)
 
 ## Guidelines
 1) https://guides.codepath.com/android/Using-the-RecyclerView
