@@ -1,5 +1,9 @@
 # NestRV
 
+## Material Design
+
+1) [Which Color is where?](https://stackoverflow.com/questions/22192291/how-to-change-the-status-bar-color-in-android)
+
 ## Guidelines
 1) https://guides.codepath.com/android/Using-the-RecyclerView
 2) https://guides.codepath.com/android/Handling-Scrolls-with-CoordinatorLayout
