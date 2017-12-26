@@ -87,4 +87,4 @@ https://material.io/devices/
 
 
 ## UI Assets
-1) (Image Scale Type)[https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide]
+1) [Image Scale Type](https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide)
