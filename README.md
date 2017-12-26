@@ -87,4 +87,8 @@ https://material.io/devices/
 
 
 ## UI Assets
+[Main](https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-keylines-spacing)
 1) [Image Scale Type](https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide)
+2) **Toolbar Icon** [Location](https://material.io/icons) } [Size]()
+3) **Navigation View Icon**
+4) 
