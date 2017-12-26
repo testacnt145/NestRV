@@ -84,3 +84,7 @@ https://stackoverflow.com/questions/13404377/how-do-i-convert-pt-to-sp
 
 Zain devices dimentions
 https://material.io/devices/
+
+
+## UI Assets
+1) (Image Scale Type)[https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide]
