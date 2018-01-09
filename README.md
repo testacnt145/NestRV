@@ -33,6 +33,7 @@
 ## Issues
 1) [setNestedScrollingEnabled(false)](https://stackoverflow.com/questions/34791752/nested-recyclerview-with-coordinatorlayout)
 2) [setRecycledViewPool(RecycledViewPool)](https://medium.com/@mgn524/optimizing-nested-recyclerview-a9b7830a4ba7)
+3) Duplication issues -> [setHasStableIds(true)](https://stackoverflow.com/questions/32771302/recyclerview-items-duplicate-and-constantly-changing)
 
 
 ## Databinding
