@@ -12,3 +12,4 @@
 
 ## Guidelines
  1) Sarmad -> xx is 1080 | x is 720 | hdpi is 540
+2) Asad -> https://vinsol.com/blog/2014/11/20/tips-for-designers-from-a-developer/
