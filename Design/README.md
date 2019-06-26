@@ -24,13 +24,19 @@
 ## Devices
 
 ### xxxhdpi (1440 x 2560)
- | 1  | ? |
+ | 1  | Samsung Galaxy s6|
  | ------------- | ------------- |
- | Size  | 	  |
- | Resolution |   |
+ | Size  | 	5.7 inches, 88.5 cm2 (~73.4% screen-to-body ratio)  |
+ | Resolution | 1440 x 2560 pixels, 16:9 ratio (~518 ppi density)  |	
+ | Android DPI | ?  |	
+ 
+ | 2  | Samsung Note 4 [SM-N910C]|
+ | ------------- | ------------- |
+ | Size  | 	5.7 inches, 88.5 cm2 (~73.4% screen-to-body ratio)  |
+ | Resolution | 1440 x 2560 pixels, 16:9 ratio (~518 ppi density)  |	
+ | Android DPI | 640  |	
 
 ### xxhdpi (1080 x 1920)
-
  | 1  | Nexus 5x |
  | ------------- | ------------- |
  | Size  | 	5.2 inches, 74.9 cm2 (~70.2% screen-to-body ratio)  |
@@ -67,8 +73,4 @@
 
  
   ### hdpi (540  x 960)
- | 1  | Samsung Note 4 [SM-N910C]|
- | ------------- | ------------- |
- | Size  | 	5.7 inches, 88.5 cm2 (~73.4% screen-to-body ratio)  |
- | Resolution | 1440 x 2560 pixels, 16:9 ratio (~518 ppi density)  |	
- | Android DPI | 640  |	
+
