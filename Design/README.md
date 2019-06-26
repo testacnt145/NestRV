@@ -42,12 +42,7 @@
  | Size  | 	5.2 inches, 74.5 cm2 (~71.0% screen-to-body ratio)  |
  | Resolution | 1080 x 1920 pixels, 16:9 ratio (~424 ppi density)  |	
  | Android DPI | 480  |	
- 
- | 3  | Samsung Galaxy s4 |
- | ------------- | ------------- |
- | Size  | 	5.0 inches, 68.9 cm2 (~72.3% screen-to-body ratio)  |
- | Resolution | 1080 x 1920 pixels, 16:9 ratio (~441 ppi density)  |	
- | Android DPI | ?  |	
+
  
  ### xhdpi (720  x 1280)
  | 1  | Infinix Hot 4 |
@@ -72,8 +67,8 @@
 
  
   ### hdpi (540  x 960)
-  | 1  | ? |
+ | 1  | Samsung Note 4 [SM-N910C]|
  | ------------- | ------------- |
- | Size  | 	  |
- | Resolution |   |
- | Android DPI |   |	
+ | Size  | 	5.7 inches, 88.5 cm2 (~73.4% screen-to-body ratio)  |
+ | Resolution | 1440 x 2560 pixels, 16:9 ratio (~518 ppi density)  |	
+ | Android DPI | 640  |	
