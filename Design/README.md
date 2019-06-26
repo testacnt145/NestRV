@@ -19,3 +19,38 @@
 2) xx  | 1080 x 1920
 3) x   | 720  x 1280
 4) h   | 540  x 960
+
+
+## Devices
+
+### xxxhdpi (1440 x 2560)
+ | 1  | ? |
+ | ------------- | ------------- |
+ | Size  | 	  |
+ | Resolution |   |
+
+### xxhdpi (1080 x 1920)
+
+ | 1  | Nexus 5x |
+ | ------------- | ------------- |
+ | Size  | 	5.2 inches, 74.9 cm2 (~70.2% screen-to-body ratio)  |
+ | Resolution | 1080 x 1920 pixels, 16:9 ratio (~423 ppi density)  |
+ 
+ 
+ | 2  | Samsung [SM-C5000] |
+ | ------------- | ------------- |
+ | Size  | 	5.2 inches, 74.5 cm2 (~71.0% screen-to-body ratio)  |
+ | Resolution | 1080 x 1920 pixels, 16:9 ratio (~424 ppi density)  |	
+ 
+ ### xhdpi (720  x 1280)
+ | 1  | Nokia 5 [TA-1053] |
+ | ------------- | ------------- |
+ | Size  | 	5.2 inches, 74.5 cm2 (~68.7% screen-to-body ratio)  |
+ | Resolution | 720 x 1280 pixels, 16:9 ratio (~282 ppi density)  |
+
+ 
+  ### hdpi (540  x 960)
+  | 1  | ? |
+ | ------------- | ------------- |
+ | Size  | 	  |
+ | Resolution |   |
