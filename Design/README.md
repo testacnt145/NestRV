@@ -35,7 +35,7 @@
  | ------------- | ------------- |
  | Size  | 	5.2 inches, 74.9 cm2 (~70.2% screen-to-body ratio)  |
  | Resolution | 1080 x 1920 pixels, 16:9 ratio (~423 ppi density)  |
- 
+  | Android DPI | ?  |	
  
  | 2  | Samsung [SM-C5000] |
  | ------------- | ------------- |
@@ -43,15 +43,28 @@
  | Resolution | 1080 x 1920 pixels, 16:9 ratio (~424 ppi density)  |	
  | Android DPI | 480  |	
  
+ | 3  | Samsung Galaxy s4 |
+ | ------------- | ------------- |
+ | Size  | 	5.0 inches, 68.9 cm2 (~72.3% screen-to-body ratio)  |
+ | Resolution | 1080 x 1920 pixels, 16:9 ratio (~441 ppi density)  |	
+ | Android DPI | ?  |	
+ 
  ### xhdpi (720  x 1280)
- | 1  | Nokia 5 [TA-1053] |
+ | 1  | Infinix Hot 4 |
+ | ------------- | ------------- |
+ | Size  | 	5.5 inches, 83.4 cm2 (~71.7% screen-to-body ratio)  |
+ | Resolution | 720 x 1280 pixels, 16:9 ratio (~267 ppi density)  |
+ | Android DPI | 320  |	
+ 
+
+ | 2  | Nokia 5 [TA-1053] |
  | ------------- | ------------- |
  | Size  | 	5.2 inches, 74.5 cm2 (~68.7% screen-to-body ratio)  |
  | Resolution | 720 x 1280 pixels, 16:9 ratio (~282 ppi density)  |
  | Density | 720 x 1280 pixels, 16:9 ratio (~282 ppi density)  |
  | Android DPI | 320  |	
  
-  | 2  | Motorolla [DROID MAXX] |
+  | 3  | Motorolla [DROID MAXX] |
  | ------------- | ------------- |
  | Size  | 	5.0 inches, 68.9 cm2 (~70.4% screen-to-body ratio)  |
  | Resolution | 720 x 1280 pixels, 16:9 ratio (~294 ppi density)  |
