@@ -73,4 +73,9 @@
 
  
   ### hdpi (540  x 960)
+ | 1  | Q-Mobile [Energy X1] |
+ | ------------- | ------------- |
+ | Size  | 	5.0 inches  |
+ | Resolution | **480 x 854 pixels**  (480x853 is the aspect ratio of 540x960)|
+ | Android DPI | 240  |	
 
