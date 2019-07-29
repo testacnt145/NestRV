@@ -48,6 +48,12 @@
  | Size  | 	5.2 inches, 74.5 cm2 (~71.0% screen-to-body ratio)  |
  | Resolution | 1080 x 1920 pixels, 16:9 ratio (~424 ppi density)  |	
  | Android DPI | xxhdpi - 480  |	
+ 
+  | 3  | Nokia 6.1 Plus - X6 - Android 9.0 (28)|
+ | ------------- | ------------- |
+ | Size  | 	5.8 inches, 85.1 cm2 (~81.5% screen-to-body ratio)  |
+ | Resolution | 1080 x 2280 pixels, 19:9 ratio (~432 ppi density)  |	
+ | Android DPI | default - 420  |	
 
  
  ### xhdpi (720  x 1280)
