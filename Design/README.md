@@ -41,13 +41,13 @@
  | ------------- | ------------- |
  | Size  | 	5.2 inches, 74.9 cm2 (~70.2% screen-to-body ratio)  |
  | Resolution | 1080 x 1920 pixels, 16:9 ratio (~423 ppi density)  |
-  | Android DPI | ?  |	
+  | Android DPI | default - 420  |	
  
  | 2  | Samsung [SM-C5000] - Android 7.0 (24)|
  | ------------- | ------------- |
  | Size  | 	5.2 inches, 74.5 cm2 (~71.0% screen-to-body ratio)  |
  | Resolution | 1080 x 1920 pixels, 16:9 ratio (~424 ppi density)  |	
- | Android DPI | 480  |	
+ | Android DPI | xxhdpi - 480  |	
 
  
  ### xhdpi (720  x 1280)
