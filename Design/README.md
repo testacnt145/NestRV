@@ -10,6 +10,12 @@
 
 ![Issue](https://github.com/testacnt145/NestRV/blob/master/Design/Emulator.png)
 
+3) Issue we are facing in Savyour 5.0 (https://stackoverflow.com/questions/42253607/android-xxhdpi-420-dpi-and-480-dpi)
+
+a) Nexus 5x and Nokia 6.1 plus are 420 dp and having issue while
+
+b) Samsung c5 is 420dp(xxhdpi) and is working fine
+
 ## Guidelines
  1) Sarmad -> xx is 1080 | x is 720 | hdpi is 540
  2) Asad -> https://vinsol.com/blog/2014/11/20/tips-for-designers-from-a-developer/
