@@ -58,7 +58,7 @@ b) Samsung c5 is 420dp(xxhdpi) and is working fine
   | 3  | Nokia 6.1 Plus - X6 - Android 9.0 (28)|
  | ------------- | ------------- |
  | Size  | 	5.8 inches, 85.1 cm2 (~81.5% screen-to-body ratio)  |
- | Resolution | 1080 x 2280 pixels, 19:9 ratio (~432 ppi density)  |	
+ | Resolution | 1080x2065 (code) 1080x2280 (web) pixels, 19:9 ratio (~432 ppi density)  |	
  | Android DPI | default - 420  |	
 
  
