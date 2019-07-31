@@ -14,7 +14,12 @@
 
 a) Nexus 5x and Nokia 6.1 plus are 420 dp and having issue while
 
-b) Samsung c5 is 420dp(xxhdpi) and is working fine
+b) Samsung c5 is 480dp(xxhdpi) and is working fine
+
+![Issue](https://github.com/testacnt145/NestRV/blob/master/Design/dpi.jpg)
+
+
+4) [Devices with same resolution and different dpi](https://stackoverflow.com/questions/32860815/how-to-define-dimens-xml-for-every-different-screen-size-in-android)
 
 ## Guidelines
  1) Sarmad -> xx is 1080 | x is 720 | hdpi is 540
