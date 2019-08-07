@@ -21,6 +21,26 @@ b) Samsung c5 is 480dp(xxhdpi) and is working fine
 
 4) [Devices with same resolution and different dpi](https://stackoverflow.com/questions/32860815/how-to-define-dimens-xml-for-every-different-screen-size-in-android)
 
+5) [Some Android Devices Dimensions](https://gist.github.com/uqmessias/4bb9d8ed90d3ebca1c387c114a71c66a)
+
+| DENSITY CONSTANT | VALUE |
+| -- | -- |
+| DENSITY_MEDIUM | 160 |
+| DENSITY_TV | 213 |
+| DENSITY_HIGH | 240 |
+| DENSITY_260 | 260 |
+| DENSITY_280 | 280 |
+| DENSITY_300 | 300 |
+| DENSITY_XHIGH | 320 |
+| DENSITY_340 | 340 |
+| DENSITY_360 | 360 |
+| DENSITY_400 | 400 |
+| DENSITY_420 | 420 |
+| DENSITY_XXHIGH | 480 |
+| DENSITY_560 | 560 |
+| DENSITY_XXXHIGH | 640 |
+
+
 ## Guidelines
  1) Sarmad -> xx is 1080 | x is 720 | hdpi is 540
  2) Asad -> https://vinsol.com/blog/2014/11/20/tips-for-designers-from-a-developer/
