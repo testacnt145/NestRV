@@ -40,6 +40,8 @@ b) Samsung c5 is 480dp(xxhdpi) and is working fine
 | DENSITY_560 | 560 |
 | DENSITY_XXXHIGH | 640 |
 
+6) [How to calculate phone dpi](https://stackoverflow.com/a/22595262/4754141)
+
 
 ## Guidelines
  1) Sarmad -> xx is 1080 | x is 720 | hdpi is 540
