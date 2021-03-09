@@ -1,11 +1,12 @@
 ## Devices in office
 
-1) Huawei Y7p [OS 9]
-2) Huawei Y9p 2019 [OS 10]
-3) Samsung [SM-C5000] [OS 7.0 (24)]
-4) Nokia 6.1 Plus - X6 [OS 9.0 (28)]
-5) Q-Mobile (Energy X1) [OS ?? (??)]
-6) Nokia 5 (TA-1053) [OS 8.1.0 (27)]
+1) Huawei Y7p [OS 9, EMUI 9] - No Google Play Service
+2) Huawei Y5p [OS 10] - No Google Play Service
+3) Huawei Y9 Prime 2019 [OS 10]
+4) Samsung [SM-C5000] [OS 7.0 (24)]
+5) Nokia 6.1 Plus - X6 [OS 9.0 (28)]
+6) Q-Mobile (Energy X1) [OS ?? (??)]
+7) Nokia 5 (TA-1053) [OS 8.1.0 (27)]
 
 **Danish**
 1) Infinix Hot 4 [OS 7.0 (24)]
@@ -14,7 +15,7 @@
 **Shayan**
 1) Nexus 5x [OS 8.1.0 (27)]
 2) Realme 5i [OS 10]
-3) Huawei Y6p [OS 10]
+3) Huawei Y6p [OS 10] - No Google Play Service
 4) Redmi Note 8 [OS 10]
 5) Samsung Galaxy J5 [OS 5.1.1]
 6) Samsung []
