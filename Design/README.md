@@ -6,14 +6,18 @@
 4) Nokia 6.1 Plus - X6 [OS 9.0 (28)]
 5) Q-Mobile (Energy X1) [OS ?? (??)]
 6) Nokia 5 (TA-1053) [OS 8.1.0 (27)]
-6a) Infinix Hot 4 [OS 7.0 (24)] - DANISH
-6b) Samsung A30s [OS 10] - DANISH
-7a) Nexus 5x [OS 8.1.0 (27)] - SHAYAN
-7b) Realme 5i [OS 10] - SHAYAN
-7c) Huawei Y6p [OS 10] - SHAYAN
-7d) Redmi Note 8 [OS 10] - SHAYAN
-7e) Samsung Galaxy J5 [OS 5.1.1] - SHAYAN
-7f) Samsung [] - SHAYAN
+
+**Danish**
+1) Infinix Hot 4 [OS 7.0 (24)]
+2) Samsung A30s [OS 10]
+
+**Shayan**
+1) Nexus 5x [OS 8.1.0 (27)]
+2) Realme 5i [OS 10]
+3) Huawei Y6p [OS 10]
+4) Redmi Note 8 [OS 10]
+5) Samsung Galaxy J5 [OS 5.1.1]
+6) Samsung []
 
 
 
