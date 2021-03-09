@@ -1,3 +1,14 @@
+## Devices in office
+
+1) Huawei Y7 Prime (OS 9)
+2) Huawei Y9 Prime 2019 (OS 10)
+3) 
+4)
+5)
+6)
+
+
+
 # Resolution Issues
 
 ## Issues
