@@ -1,12 +1,12 @@
-## Devices in office
+## Office Devices
 
 1) Huawei Y7p [OS 9, EMUI 9] - No Google Play Service
-2) Huawei Y5p [OS 10] - No Google Play Service
+2) Huawei Y5p [OS 10] - No Google Play Service - ***Danish***
 3) Huawei Y9 Prime 2019 [OS 10]
 4) Samsung [SM-C5000] [OS 7.0 (24)]
 5) Nokia 6.1 Plus - X6 [OS 9.0 (28)]
-6) Q-Mobile (Energy X1) [OS ?? (??)]
-7) Nokia 5 (TA-1053) [OS 8.1.0 (27)]
+6) Q-Mobile (Energy X1) [OS 6]
+7) Nokia 5 (TA-1053) [OS 9]
 
 **Danish**
 1) Infinix Hot 4 [OS 7.0 (24)]
@@ -18,7 +18,12 @@
 3) Huawei Y6p [OS 10] - No Google Play Service
 4) Redmi Note 8 [OS 10]
 5) Samsung Galaxy J5 [OS 5.1.1]
-6) Samsung []
+6) Nexus 5 []
+
+**Office Colleagues**
+1) Samsung Galaxy Note 20 Ultra 5G (SM-N9860) [OS 11 - One UI 3.0] - ***Saad Gadit***
+2) Vivo v20 [OS 11 - Funtouch 11] - ***Uzair Iqbal***
+3) Pixel 3XL [OS 11] - ***Imran QA Ivacy***
 
 
 
