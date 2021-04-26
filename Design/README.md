@@ -3,9 +3,10 @@
 1) Huawei Y7p [OS 9, EMUI 9] - No Google Play Service
 2) Huawei Y5p [OS 10] - No Google Play Service - ***Danish***
 3) Huawei Y9 Prime 2019 [OS 10]
-4) Samsung [SM-C5000] [OS 7.0 (24)]
-5) Q-Mobile (Energy X1) [OS 6]
-6) Nokia 5 (TA-1053) [OS 9]
+4) Google Pixel 3 [OS 11] - ***Shayan***
+5) Samsung [SM-C5000] [OS 7.0 (24)]
+6) Q-Mobile (Energy X1) [OS 6]
+7) Nokia 5 (TA-1053) [OS 9]
 
 **Danish**
 1) Infinix Hot 4 [OS 7.0 (24)]
