@@ -10,7 +10,7 @@
 
 **Danish**
 1) Infinix Hot 4 [OS 7.0 (24)] [ **720 x 1280** pixels, 16:9 ratio (~267 ppi density)]
-2) Samsung A30s [OS 10] [ **720 x 1560** Pixels (~268 PPI)]
+2) Samsung A30s [OS 11] [ **720 x 1560** Pixels (~268 PPI)]
 3) Samsung A32 [OS 11] [ **1080 x 2400** pixels, 20:9 ratio (~411 ppi density)]
 
 **Shayan**
