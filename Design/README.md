@@ -1,19 +1,20 @@
 ## Office Devices
 
-1) Huawei Y7p [OS 9, EMUI 9] - No Google Play Service
-2) Huawei Y5p [OS 10] - No Google Play Service - ***Danish***
+1) Huawei Y7p [OS 9, EMUI 9] [No Google Service]
+2) Huawei Y5p [OS 10] [720 x 1440 pixels, 18:9 ratio (~295 ppi density)] [No Google Service] - ***Danish***
 3) Huawei Y9 Prime 2019 [OS 10]
-4) Google Pixel 3 [OS 11] - ***Shayan***
+4) Google Pixel 3 [OS 11] [1080 x 2160 pixels, 18:9 ratio (~443 ppi density)] - ***Shayan***
 5) Samsung [SM-C5000] [OS 7.0 (24)]
 6) Q-Mobile (Energy X1) [OS 6]
 7) Nokia 5 (TA-1053) [OS 9]
 
 **Danish**
-1) Infinix Hot 4 [OS 7.0 (24)]
-2) Samsung A30s [OS 10]
+1) Infinix Hot 4 [OS 7.0 (24)] [720 x 1280 pixels, 16:9 ratio (~267 ppi density)]
+2) Samsung A30s [OS 10] [720 x 1560 Pixels (~268 PPI)]
+3) Samsung A32 [OS 11] [1080 x 2400 pixels, 20:9 ratio (~411 ppi density)]
 
 **Shayan**
-1) Nexus 5x [OS 8.1.0 (27)]
+1) Nexus 5x [OS 8.1.0 (27)] [1080 x 1920 pixels, 16:9 ratio (~423 ppi density)]
 2) Realme 5i [OS 10]
 3) Huawei Y6p [OS 10] - No Google Play Service
 4) Redmi Note 8 [OS 10]
@@ -21,7 +22,7 @@
 6) Nexus 5 []
 
 **Office Colleagues**
-1) Samsung Galaxy Note 20 Ultra 5G (SM-N9860) [OS 11 - One UI 3.0] - ***Saad Gadit***
+1) Samsung Galaxy Note 20 Ultra 5G (SM-N9860) [OS 11 - One UI 3.0] [1440 x 3088 pixels (~496 ppi density)] - ***Saad Gadit***
 2) Vivo v20 [OS 11 - Funtouch 11] - ***Uzair Iqbal***
 3) Pixel 3XL [OS 11] - ***Imran QA Ivacy***
 
