@@ -1,30 +1,31 @@
 ## Office Devices
 
-1) Huawei Y7p [OS 9, EMUI 9] [No Google Service]
+1) Huawei Y7p [OS 9, EMUI 9] [ **720 x 1560** pixels, 19.5:9 ratio (~269 ppi density)] [No Google Service]
 2) Huawei Y5p [OS 10] [ **720 x 1440** pixels, 18:9 ratio (~295 ppi density)] [No Google Service] - ***Danish***
-3) Huawei Y9 Prime 2019 [OS 10]
+3) Huawei Y9 Prime 2019 [OS 10] [ **1080 x 2340** pixels, 19.5:9 ratio (~391 ppi density)]
 4) Google Pixel 3 [OS 11] [ **1080 x 2160** pixels, 18:9 ratio (~443 ppi density)] - ***Shayan***
-5) Samsung [SM-C5000] [OS 7.0 (24)]
-6) Q-Mobile (Energy X1) [OS 6]
-7) Nokia 5 (TA-1053) [OS 9]
+5) Samsung [SM-C5000] [OS 7.0 (24)] [ **1080 x 1920** pixels, 16:9 ratio (~424 ppi density)]
+6) Q-Mobile (Energy X1) [OS 6] [ **480 x 854** pixels 5.0 inches]
+7) Nokia 5 (TA-1053) [OS 9] [ **720 x 1280** pixels, 16:9 ratio (~282 ppi density)]
 
 **Danish**
 1) Infinix Hot 4 [OS 7.0 (24)] [ **720 x 1280** pixels, 16:9 ratio (~267 ppi density)]
 2) Samsung A30s [OS 11] [ **720 x 1560** Pixels (~268 PPI)]
 3) Samsung A32 [OS 11] [ **1080 x 2400** pixels, 20:9 ratio (~411 ppi density)]
+4) Realme C17 [OS 11] [ **720 x 1600** pixels, 20:9 ratio (~270 ppi density)]
 
 **Shayan**
 1) Nexus 5x [OS 8.1.0 (27)] [ **1080 x 1920** pixels, 16:9 ratio (~423 ppi density)]
 2) Realme 5i [OS 10] [ **720 x 1600** pixels, 20:9 ratio (~269 ppi density)]
-3) Huawei Y6p [OS 10] - No Google Play Service
-4) Redmi Note 8 [OS 10]
-5) Samsung Galaxy J5 [OS 5.1.1]
-6) Nexus 5 []
+3) Huawei Y6p [OS 10] [No Google Service] [ **720 x 1600** pixels, 20:9 ratio (~278 ppi density)]
+4) Redmi Note 8 [OS 10] [ **1080 x 2340** pixels, 19.5:9 ratio (~409 ppi density)]
+5) Samsung Galaxy J5 [OS 5.1.1] [ **720 x 1280** pixels, 16:9 ratio (~294 ppi density)]
+6) Nexus 5 [OS 6] [ **1080 x 1920** pixels, 16:9 ratio (~445 ppi density)]
 
 **Office Colleagues**
 1) Samsung Galaxy Note 20 Ultra 5G (SM-N9860) [OS 11 - One UI 3.0] [ **1440 x 3088** pixels (~496 ppi density)] - ***Saad Gadit***
-2) Vivo v20 [OS 11 - Funtouch 11] - ***Uzair Iqbal***
-3) Pixel 3XL [OS 11] - ***Imran QA Ivacy***
+2) Vivo v20 [OS 11 - Funtouch 11] [ **1080 x 2400** pixels, 20:9 ratio (~409 ppi density)] - ***Uzair Iqbal***
+3) Pixel 3XL [OS 11] [ **1440 x 2960** pixels, 18.5:9 ratio (~523 ppi density)] ***Imran QA Ivacy***
 
 
 
