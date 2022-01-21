@@ -13,6 +13,7 @@
 2) Samsung A30s [OS 11] [**720x1560** (~268 PPI)]
 3) Samsung A32 [OS 11] [**1080x2400 | Code: 1080x2195px**, 20:9 ratio (~411 ppi density)]  **[LONG 360x800dp]**
 4) Realme C17 [OS 11] [**720x1600**, 20:9 ratio (~270 ppi density)]
+5) Q-Mobile (X36) [OS 7] [**480x800** 4.0 inches]
 
 **Shayan**
 1) Nexus 5x [OS 8.1.0 (27)] [**1080x1920 | Code: 1080x1794px = 360x598dp]**, 16:9 ratio (~423 ppi density)] **[SMALL THAN ACTUAL]**
