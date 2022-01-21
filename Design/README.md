@@ -26,6 +26,7 @@
 1) Samsung Galaxy Note 20 Ultra 5G (SM-N9860) [OS 11 - One UI 3.0] [ **1440 x 3088** pixels (~496 ppi density)] - ***Saad Gadit*** **[LONG 360x772dp]**
 2) Vivo v20 [OS 11 - Funtouch 11] [ **1080 x 2400** pixels, 20:9 ratio (~409 ppi density)] - ***Uzair Iqbal***
 3) Pixel 3XL [OS 11] [ **1440 x 2960** pixels, 18.5:9 ratio (~523 ppi density)] ***Imran QA Ivacy***
+4) Xiaomi Redmi Note 10 [OS 11] [ **1080 x 2400** pixels, 20:9 ratio (~409 ppi density)] ***Asad QA*** **[LONG 360x800dp]**
 
 
 
