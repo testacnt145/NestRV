@@ -1,32 +1,32 @@
 ## Office Devices
 
-1) Huawei Y7p [OS 9, EMUI 9] [ **720 x 1560** pixels, 19.5:9 ratio (~269 ppi density)] [No Google]
+1) Huawei Y7p [OS 9, EMUI 9] [**720x1560**, 19.5:9 ratio (~269 ppi density)] [No Google]
 2) Huawei Y5p [OS 10] [**720x1440 | Code: 720x1352px**, 18:9 ratio (~295 ppi density)] [No Google] - ***Danish*** **[LONG 360x720dp]**
-3) Huawei Y9 Prime 2019 [OS 10] [ **1080 x 2340** pixels, 19.5:9 ratio (~391 ppi density)]
+3) Huawei Y9 Prime 2019 [OS 10] [**1080x2340**, 19.5:9 ratio (~391 ppi density)]
 4) Google Pixel 3 [OS 11] [**1080x2160 | Code: 1080x2028px** pixels, 18:9 ratio (~443 ppi density)] - ***Shayan*** **[LONG 360x720dp]**
 5) Samsung [SM-C5000] [OS 7.0 (24)] [**1080 x 1920** pixels, 16:9 ratio (~424 ppi density)]
-6) Q-Mobile (Energy X1) [OS 6] [ **480 x 854** pixels 5.0 inches]
-7) Nokia 5 (TA-1053) [OS 9] [ **720 x 1280** pixels, 16:9 ratio (~282 ppi density)]
+6) Q-Mobile (Energy X1) [OS 6] [**480x854** 5.0 inches]
+7) Nokia 5 (TA-1053) [OS 9] [**720x1280**, 16:9 ratio (~282 ppi density)]
 
 **Danish**
-1) Infinix Hot 4 [OS 7.0 (24)] [ **720 x 1280** pixels, 16:9 ratio (~267 ppi density)]
-2) Samsung A30s [OS 11] [ **720 x 1560** Pixels (~268 PPI)]
+1) Infinix Hot 4 [OS 7.0 (24)] [**720x1280**, 16:9 ratio (~267 ppi density)]
+2) Samsung A30s [OS 11] [**720x1560** (~268 PPI)]
 3) Samsung A32 [OS 11] [**1080x2400 | Code: 1080x2195px**, 20:9 ratio (~411 ppi density)]  **[LONG 360x800dp]**
-4) Realme C17 [OS 11] [ **720 x 1600** pixels, 20:9 ratio (~270 ppi density)]
+4) Realme C17 [OS 11] [**720x1600**, 20:9 ratio (~270 ppi density)]
 
 **Shayan**
 1) Nexus 5x [OS 8.1.0 (27)] [**1080x1920|Code: 1080x1794px = 360x598dp]**, 16:9 ratio (~423 ppi density)] **[SMALL THAN ACTUAL]**
-2) Realme 5i [OS 10] [ **720 x 1600** pixels, 20:9 ratio (~269 ppi density)]
+2) Realme 5i [OS 10] [**720x1600**, 20:9 ratio (~269 ppi density)]
 3) Huawei Y6p [OS 10] [No Google] [**720x1600 | Code: 720x1470px = 360x735dp]**, 20:9 ratio (~278 ppi density)] **[LONG 360x800dp]**
-4) Redmi Note 8 [OS 10] [ **1080 x 2340** pixels, 19.5:9 ratio (~409 ppi density)]
-5) Samsung Galaxy J5 [OS 5.1.1] [ **720 x 1280** pixels, 16:9 ratio (~294 ppi density)]
-6) Nexus 5 [OS 6] [ **1080 x 1920** pixels, 16:9 ratio (~445 ppi density)]
+4) Redmi Note 8 [OS 10] [**1080x2340** , 19.5:9 ratio (~409 ppi density)]
+5) Samsung Galaxy J5 [OS 5.1.1] [**720x1280**, 16:9 ratio (~294 ppi density)]
+6) Nexus 5 [OS 6] [ **1080x1920**, 16:9 ratio (~445 ppi density)]
 
 **Office Colleagues**
-1) Samsung Galaxy Note 20 Ultra 5G (SM-N9860) [OS 11 - One UI 3.0] [ **1440 x 3088** pixels (~496 ppi density)] - ***Saad Gadit*** **[LONG 360x772dp]**
-2) Vivo v20 [OS 11 - Funtouch 11] [ **1080 x 2400** pixels, 20:9 ratio (~409 ppi density)] - ***Uzair Iqbal***
-3) Pixel 3XL [OS 11] [ **1440 x 2960** pixels, 18.5:9 ratio (~523 ppi density)] ***Imran QA Ivacy***
-4) Xiaomi Redmi Note 10 [OS 11] [ **1080 x 2400** pixels, 20:9 ratio (~409 ppi density)] ***Asad QA*** **[LONG 360x800dp]**
+1) Samsung Galaxy Note 20 Ultra 5G (SM-N9860) [OS 11 - One UI 3.0] [**1440x3088** (~496 ppi density)] - ***Saad Gadit*** **[LONG 360x772dp]**
+2) Vivo v20 [OS 11 - Funtouch 11] [**1080x2400**, 20:9 ratio (~409 ppi density)] - ***Uzair Iqbal***
+3) Pixel 3XL [OS 11] [**1440x2960**, 18.5:9 ratio (~523 ppi density)] ***Imran QA Ivacy***
+4) Xiaomi Redmi Note 10 [OS 11] [**1080x2400**, 20:9 ratio (~409 ppi density)] ***Asad QA*** **[LONG 360x800dp]**
 
 
 
