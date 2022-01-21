@@ -11,7 +11,7 @@
 **Danish**
 1) Infinix Hot 4 [OS 7.0 (24)] [ **720 x 1280** pixels, 16:9 ratio (~267 ppi density)]
 2) Samsung A30s [OS 11] [ **720 x 1560** Pixels (~268 PPI)]
-3) Samsung A32 [OS 11] [ **1080 x 2400** pixels, 20:9 ratio (~411 ppi density)]
+3) Samsung A32 [OS 11] [ **1080 x 2400** pixels, 20:9 ratio (~411 ppi density)]  **[LONG 360x800dp]**
 4) Realme C17 [OS 11] [ **720 x 1600** pixels, 20:9 ratio (~270 ppi density)]
 
 **Shayan**
@@ -23,7 +23,7 @@
 6) Nexus 5 [OS 6] [ **1080 x 1920** pixels, 16:9 ratio (~445 ppi density)]
 
 **Office Colleagues**
-1) Samsung Galaxy Note 20 Ultra 5G (SM-N9860) [OS 11 - One UI 3.0] [ **1440 x 3088** pixels (~496 ppi density)] - ***Saad Gadit***
+1) Samsung Galaxy Note 20 Ultra 5G (SM-N9860) [OS 11 - One UI 3.0] [ **1440 x 3088** pixels (~496 ppi density)] - ***Saad Gadit*** **[LONG 360x772dp]**
 2) Vivo v20 [OS 11 - Funtouch 11] [ **1080 x 2400** pixels, 20:9 ratio (~409 ppi density)] - ***Uzair Iqbal***
 3) Pixel 3XL [OS 11] [ **1440 x 2960** pixels, 18.5:9 ratio (~523 ppi density)] ***Imran QA Ivacy***
 
