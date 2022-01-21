@@ -3,7 +3,7 @@
 1) Huawei Y7p [OS 9, EMUI 9] [ **720 x 1560** pixels, 19.5:9 ratio (~269 ppi density)] [No Google]
 2) Huawei Y5p [OS 10] [ **720 x 1440** pixels, 18:9 ratio (~295 ppi density)] [No Google] - ***Danish*** **[LONG 360x720dp]**
 3) Huawei Y9 Prime 2019 [OS 10] [ **1080 x 2340** pixels, 19.5:9 ratio (~391 ppi density)]
-4) Google Pixel 3 [OS 11] [ **1080 x 2160** pixels, 18:9 ratio (~443 ppi density)] - ***Shayan*** **[LONG 360x720dp]**
+4) Google Pixel 3 [OS 11] [**1080x2160 | Code: 1080x2028px** pixels, 18:9 ratio (~443 ppi density)] - ***Shayan*** **[LONG 360x720dp]**
 5) Samsung [SM-C5000] [OS 7.0 (24)] [ **1080 x 1920** pixels, 16:9 ratio (~424 ppi density)]
 6) Q-Mobile (Energy X1) [OS 6] [ **480 x 854** pixels 5.0 inches]
 7) Nokia 5 (TA-1053) [OS 9] [ **720 x 1280** pixels, 16:9 ratio (~282 ppi density)]
