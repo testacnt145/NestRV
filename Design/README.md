@@ -15,9 +15,9 @@
 4) Realme C17 [OS 11] [ **720 x 1600** pixels, 20:9 ratio (~270 ppi density)]
 
 **Shayan**
-1) Nexus 5x [OS 8.1.0 (27)] [ **1080 x 1920** pixels, 16:9 ratio (~423 ppi density)]
+1) Nexus 5x [OS 8.1.0 (27)] [**1080x1920|Code: 1080x1794px = 360x598dp]**, 16:9 ratio (~423 ppi density)] **[SMALL THAN ACTUAL]**
 2) Realme 5i [OS 10] [ **720 x 1600** pixels, 20:9 ratio (~269 ppi density)]
-3) Huawei Y6p [OS 10] [No Google] [ **720x1600 | Code: 720x1470px = 360x735dp]**, 20:9 ratio (~278 ppi density)] **[LONG 360x800dp]**
+3) Huawei Y6p [OS 10] [No Google] [**720x1600 | Code: 720x1470px = 360x735dp]**, 20:9 ratio (~278 ppi density)] **[LONG 360x800dp]**
 4) Redmi Note 8 [OS 10] [ **1080 x 2340** pixels, 19.5:9 ratio (~409 ppi density)]
 5) Samsung Galaxy J5 [OS 5.1.1] [ **720 x 1280** pixels, 16:9 ratio (~294 ppi density)]
 6) Nexus 5 [OS 6] [ **1080 x 1920** pixels, 16:9 ratio (~445 ppi density)]
