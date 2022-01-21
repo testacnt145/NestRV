@@ -85,6 +85,9 @@ b) Samsung c5 is 480dp(xxhdpi) and is working fine
 3) x   | 720  x 1280
 4) h   | 540  x 960
 
+![Width](https://github.com/testacnt145/NestRV/blob/master/Design/360.JPG)
+
+![Height](https://github.com/testacnt145/NestRV/blob/master/Design/640.JPG)
 
 ## Devices
 
